@@ -1,0 +1,13 @@
+.list{
+    box-shadow: 8px 0px 11px -5px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 8px 0px 11px -5px rgba(0,0,0,0.75);
+    -moz-box-shadow: 8px 0px 11px -5px rgba(0,0,0,0.75);
+    padding: 0;
+    li{
+        width: 100%;
+        padding: 10px 20px;
+        border-bottom: 1px solid #ead9e9;
+        cursor: pointer;
+        text-transform: uppercase;
+    }
+}
